@@ -1,0 +1,25 @@
+{
+  "name": "KTEC RQR SYSTEM",
+  "short_name": "KTEC RQR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B2A4A",
+  "icons": [
+    {
+      "src": "./RQR.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./RQR.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./RQR.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
