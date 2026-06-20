@@ -1,25 +1,29 @@
 {
   "name": "KTEC RQR SYSTEM",
   "short_name": "KTEC RQR",
-  "start_url": "./index.html",
+  "start_url": "https://basser0021-creator.github.io/ktec-rqr-system/index.html",
+  "scope": "https://basser0021-creator.github.io/ktec-rqr-system/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0B2A4A",
   "icons": [
     {
-      "src": "./RQR.png",
+      "src": "https://basser0021-creator.github.io/ktec-rqr-system/RQR.png?v=final20260620",
       "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "./RQR.png",
+      "src": "https://basser0021-creator.github.io/ktec-rqr-system/RQR.png?v=final20260620",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "./RQR.png",
+      "src": "https://basser0021-creator.github.io/ktec-rqr-system/RQR.png?v=final20260620",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
